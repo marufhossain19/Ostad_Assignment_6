@@ -6,7 +6,7 @@
 # Assignment 6 - Contact List Flutter App
 
 ## Overview
-A Flutter application that implements a dynamic Contact List where users can add contacts using input fields and an Add button. The app uses a **StatefulWidget** so that when the user enters a name and phone number and clicks the **Add** button, the new contact is displayed in the list below.
+A Flutter application that implements a dynamic Contact List where users can add contacts using input fields and an Add button. The app uses a **StatefulWidget** so that when the user enters a name and phone number, it dynamically adds a new contact to the list.
 
 ## Project Structure
 ```
@@ -54,11 +54,11 @@ assignment_6/
 ### Screenshots
 - **contact_list_output.png**: Application output on emulator
 
-  ![Output](contact_list_output.png)
+  ![Output](https://github.com/marufhossain19/Ostad_Assignment_6/blob/main/contact_list_output.png?raw=true)
 
 - **contact_list_full_output.png**: Full UI output with code and emulator
 
-  ![Full Output](contact_list_full_output.png)
+  ![Full Output](https://github.com/marufhossain19/Ostad_Assignment_6/blob/main/contact_list_full_output.png?raw=true)
 
 ## Author
 **Maruf Hossain**
