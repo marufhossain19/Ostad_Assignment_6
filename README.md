@@ -6,15 +6,15 @@
 # Assignment 6 - Contact List Flutter App
 
 ## Overview
-A Flutter application that implements a dynamic Contact List where users can add contacts using input fields and an Add button. The app uses a **StatefulWidget** so that when the user enters a name and phone number, it dynamically adds a new contact to the list.
+A Flutter application that implements a dynamic Contact List where users can add contacts using input fields and an Add button. The app uses a **StatefulWidget** so that when the user enters a name and phone number, the contact gets added to a dynamic list that updates in real-time.
 
 ## Project Structure
 ```
 assignment_6/
 ├── lib/
 │   └── main.dart                  # Main application code
-├── contact_list_output.png        # Application output screenshot
-├── contact_list_full_output.png   # Full UI output screenshot with code
+├── Output.png                     # Application output screenshot
+├── Full_ Output.png               # Full UI output screenshot with code
 ├── pubspec.yaml                   # Flutter project dependencies
 └── README.md                      # This file
 ```
@@ -52,13 +52,13 @@ assignment_6/
 ## Output
 
 ### Screenshots
-- **contact_list_output.png**: Application output on emulator
+- **Output.png**: Application output on emulator
 
-  ![Output](https://github.com/marufhossain19/Ostad_Assignment_6/blob/main/contact_list_output.png?raw=true)
+  ![Output](https://github.com/marufhossain19/Ostad_Assignment_6/blob/main/Output.png?raw=true)
 
-- **contact_list_full_output.png**: Full UI output with code and emulator
+- **Full_ Output.png**: Full UI output with code and emulator
 
-  ![Full Output](https://github.com/marufhossain19/Ostad_Assignment_6/blob/main/contact_list_full_output.png?raw=true)
+  ![Full Output](https://github.com/marufhossain19/Ostad_Assignment_6/blob/main/Full_%20Output.png?raw=true)
 
 ## Author
 **Maruf Hossain**
